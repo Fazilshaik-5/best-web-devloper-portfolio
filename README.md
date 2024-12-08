@@ -1,9 +1,10 @@
-# ???? Web Developer Portfolio
+#  Web Developer Portfolio
 
 Welcome to my **Web Developer Portfolio**! Here's where creativity meets code - my journey as a web developer using **HTML**, **CSS**, and **JavaScript**. ????  
 
 
-???? **[Live Demo](#)**  
+ **[Live Demo](#)**  
+https://fazilshaik-5.github.io/best-web-devloper-portfolio/
 
 
 ---
@@ -17,14 +18,14 @@ Welcome to my **Web Developer Portfolio**! Here's where creativity meets code - 
 
 ---
 
-## ???? Built With  
+##  Built With  
 - **HTML5**: Crafting the structure.  
 - **CSS3**: Adding style and flair.  
 - **JavaScript**: Making it interactive and engaging.  
 
 ---
 
-## ???? How to Use  
+##  How to Use  
 1. **Clone the repo**:  
    ```bash
    git clone https://github.com/your-username/portfolio.git
@@ -36,9 +37,9 @@ Welcome to my **Web Developer Portfolio**! Here's where creativity meets code - 
 
 ---
 
-## ???? Connect With Me  
+##  Connect With Me  
 - **LinkedIn**: [Your Profile](#)  
-- **Email**: [your.email@example.com](mailto:your.email@example.com)  
+- **Email**: [your.email@example.com]  mohammedfazilshaik51@gmail.com
 
 ---
 
